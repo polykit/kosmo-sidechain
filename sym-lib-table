@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "kosmo-sidechain-rescue")(type "Legacy")(uri "${KIPRJMOD}/kosmo-sidechain-rescue.lib")(options "")(descr ""))
+)
