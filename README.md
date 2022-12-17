@@ -40,3 +40,9 @@ https://www.youtube.com/watch?v=cXaip9cjlhU
 https://www.instructables.com/Freestyle-High-Fidelity-Ducking-Circuit/
 
 https://lookmumnocomputer.discourse.group/t/side-chain-module-ducking
+
+https://www.lookmumnocomputer.com/modular
+
+https://github.com/telec16/kicad
+
+https://github.com/holmesrichards/Kosmo_panel
